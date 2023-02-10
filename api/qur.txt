@@ -1,0 +1,7 @@
+qurasdir
+1) npm i
+dosyaya baxmaq ucun
+2) cat package.json
+dosyanin icindeki serveri qurasdir
+3) npm run server
+sene 7000 portalda islemeyi verir
